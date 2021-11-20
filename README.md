@@ -1,2 +1,2 @@
 # Demo Git project 
-Demo for the Github Intro video.
+Demo for the Github Intro video!
